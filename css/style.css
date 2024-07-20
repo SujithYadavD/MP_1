@@ -1,0 +1,204 @@
+.flex_container {
+  height: 350px;
+  width: 1000px;
+  display: flex;
+  background-color: #FFCD9E;
+  color: black;
+
+}
+.box1 {
+  margin-left: 20px;
+  margin-top: 20px;
+  height: 350px;
+  width: 500px;
+}
+
+.box2 {
+  margin-left: 40px;
+  margin-top: 20px;
+  height: 350px;
+  width: 500px;
+}
+
+.flex_container2 {
+  height: 200px;
+  width: 1000px;
+  background-color: rgb(7, 7, 7);
+  display: flex;
+  color: white;
+}
+
+.box3 {
+  height: 250px;
+  width: 500px;
+  text-align: start;
+  margin-left: 60px;
+}
+
+.box4 {
+  height: 250px;
+  width: 500px;
+  text-align: end;
+  margin-right: 40px;
+}
+
+.image {
+  height: 350px;
+  width: 350px;
+  align-items: center;
+}
+
+.registration {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+input[type="email"] {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*.flex_container {
+  width: 90vw;
+  height: 40vw;
+  background-color: #FFCD9E;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  flex-wrap: wrap;
+
+
+}
+
+.item1 {
+  display: inline-flexbox;
+  flex: 50%;
+  height: 20vw;
+  width: 45vw;
+  margin-left: 20px;
+}
+
+.item2 {
+  flex: 50%;
+
+}
+
+
+.flex_container2 {
+  width: 90vw;
+  height: 20x;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+
+}
+
+.item3 {
+  flex: 1;
+  max-width:700px;
+  color: white;
+  text-align: start;
+}
+
+.item4 {
+  color: white;
+  text-align: end;
+}
+
+.registration {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+
+input[type="email"] {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
